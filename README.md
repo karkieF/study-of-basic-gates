@@ -97,5 +97,5 @@ endmodule
 **RTL**
 <img width="416" height="308" alt="image" src="https://github.com/user-attachments/assets/52697081-f31c-4ca5-bb84-901339a0555b" />
 **Result:**
-
+Thus the code is executed successfully and the logical diagram and logical output is retrived.
 
